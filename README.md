@@ -1,5 +1,3 @@
----
-
 # **NOTE – The Ultimate Productivity Companion**
 
 ### *Write. Organize. Reflect. Execute.*
